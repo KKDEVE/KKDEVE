@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm ✨ Kiki Deng ✨</h1>
+<h1 align="center">Hi there 👋, I'm ✨ Kiki ✨</h1>
 <h3 align="center">A frontend developer with 👀 a keen eye 👀 for design</h3>
 
 - 😮‍💨 As a natural language learner and computing language learner, I am taken away by the power of languages and intend to construct worlds with them. 
